@@ -1,0 +1,336 @@
+#EXTM3
+#EXTINF:0,LA: Starz West HD http://mriptv.in:8080/live/Rob/Rob1/77700.ts 
+#EXTINF:0,LA: Starz Kids & Family HD 
+#EXTINF:-1,Latino: FX http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
+#EXTINF:-1,Latino: Fox HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
+#EXTINF:-1,Latino: Fox Action HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1,Latino: FOX LIFE http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8 
+#EXTINF:-1,Latino: AXN HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8 
+#EXTINF:-1,Latino: Universal Channel HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/13.m3u8 
+#EXTINF:-1,Latino: STUDIO UNIVERSAL http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8 
+#EXTINF:-1,Latino: Warner HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8 
+#EXTINF:-1,Latino: SONY http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8 
+#EXTINF:-1,ES: SYFY http://185.152.66.150:25461/live/peliculas-series/fanstvapp/18.m3u8 
+#EXTINF:-1,Latino: Space HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8 
+#EXTINF:-1,ES: TNT SPAIN http://185.152.66.150:25461/live/peliculas-series/fanstvapp/14.m3u8 
+#EXTINF:-1,Latino: HBO http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8 
+#EXTINF:-1,Latino: HBO 2 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8 
+#EXTINF:-1,Latino: Golden HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8 
+#EXTINF:-1,Latino: Cinecanal http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8 
+#EXTINF:-1,ES: HOLLYWOOD HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/22.m3u8 
+#EXTINF:-1,ES: Paramount http://185.152.66.150:25461/live/peliculas-series/fanstvapp/21.m3u8 
+#EXTINF:-1,Latino: TCM http://185.152.66.150:25461/live/peliculas-series/fanstvapp/16.m3u8 
+#EXTINF:-1,Latino: AMC http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8 
+#EXTINF:-1,Latino: De Pelicula HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8 
+#EXTINF:-1,Latino: A&E HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8 
+#EXTINF:-1,iptvtools_37 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8 
+#EXTINF:-1,iptvtools_38 http://live.cgtn.com/cctv-e.m3u8 
+#EXTINF:-1,iptvtools_39 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8 
+#EXTINF:-1,iptvtools_40 http://107.189.40.49:1935/live/hispantv/master.m3u8 
+#EXTINF:-1,iptvtools_41 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8 
+#EXTINF:-1,ES:CALLE 13 HD http://185.152.66.150:25461/live/peliculas-series/fanstvapp/33.m3u8 
+#EXTINF:-1,iptvtools_50 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8 
+#EXTINF:-1,iptvtools_51 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8 #EXTINF:-1,iptvtools_52 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8 
+#EXTINF:-1,iptvtools_53 http://strm.unicanal.com.py/live/unicanal.m3u8 
+#EXTINF:-1,iptvtools_54 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8 
+#EXTINF:-1,iptvtools_57 https://secure-streams.akamaized.net/rt-esp/index.m3u8 
+#EXTINF:-1,Latino: Animal Planet http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8 
+#EXTINF:-1,Latino: H2 http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8 
+#EXTINF:-1,Latino: History HD http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8 
+#EXTINF:-1,Latino: Discovery ID http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8 
+#EXTINF:-1,Latino: Discovery Channel http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8 
+#EXTINF:-1,Latino: DISCOVERY SCIENCE. http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8 
+#EXTINF:-1,Latino: Discovery Turbo http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8 
+#EXTINF:-1,Latino: DISCOVERY HOME & HEALTH http://185.152.66.150:25461/live/fanstvapp/variedades/3.m3u8 
+#EXTINF:-1,iptvtools_67 http://live10.cdnmedia.tv/mtchlive/smil:mtch.smil/chunklist_b500000.m3u8 
+#EXTINF:-1,Latino: BOOMERANG http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8 
+#EXTINF:-1,Latino: Disney Channel http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8 
+#EXTINF:-1,Latino: Disney Junior http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8 
+#EXTINF:-1,Latino: Disney XD http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8 
+#EXTINF:-1,ES: Boing http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8 
+#EXTINF:-1,Latino: TIIN http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8 
+#EXTINF:-1,Latino: TOONCAST http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8 
+#EXTINF:-1,Latino: CARTOON NETWORK http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8 
+#EXTINF:-1,ES: Clan Tve http://185.152.66.150:25461/live/infantiles/fanstvapp/63.m3u8 
+#EXTINF:-1,Latino: NICKELODEON http://185.152.66.150:25461/live/infantiles/fanstvapp/58.m3u8 
+#EXTINF:-1,Latino: NICK Jr http://185.152.66.150:25461/live/infantiles/fanstvapp/57.m3u8 
+#EXTINF:-1,ES: BABY TV http://185.152.66.150:25461/live/infantiles/fanstvapp/66.m3u8 
+#EXTINF:-1,Latino: PANDA http://185.152.66.150:25461/live/infantiles/fanstvapp/55.m3u8 
+#EXTINF:-1,Latino: Discovery Kids http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8 
+#EXTINF:-1,iptvtools_82 http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+#EXTINF:-1,iptvtools_83 http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8 
+#EXTINF:-1,iptvtools_84 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,Latino: ESPN http://185.152.66.150:25461/live/deportesfans/fanstvapp/47.m3u8 
+#EXTINF:-1,Latino: ESPN 2 http://185.152.66.150:25461/live/deportesfans/fanstvapp/45.m3u8 
+#EXTINF:-1,Latino: ESPN 3 http://185.152.66.150:25461/live/deportesfans/fanstvapp/46.m3u8 
+#EXTINF:-1,Latino: Fox Sports http://185.152.66.150:25461/live/deportesfans/fanstvapp/42.m3u8 
+#EXTINF:-1,Latino: Fox Sports 2 HD http://185.152.66.150:25461/live/deportesfans/fanstvapp/43.m3u8 
+#EXTINF:-1,ES:Canal LIGA HD http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8 
+#EXTINF:-1,ES : MOVISTAR FORMULA 1 http://185.152.66.150:25461/live/deportesfans/fanstvapp/40.m3u8 
+#EXTINF:-1,iptvtools_96 https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8 
+#EXTINF:-1,ES : movistar Futbol http://185.152.66.150:25461/live/deportesfans/fanstvapp/39.m3u8 
+#EXTINF:-1,ES: Real Madrid Channel http://185.152.66.150:25461/live/deportesfans/fanstvapp/38.m3u8 
+#EXTINF:-1,iptvtools_99 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8 
+#EXTINF:-1,Latino: WIN SPORT HD http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8 
+#EXTINF:-1,iptvtools_103 http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8 
+#EXTINF:-1,iptvtools_106 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_282_av-p.m3u8?sd=10&rebase=on #EXTINF:-1,iptvtools_107 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8 
+#EXTINF:-1,iptvtools_108 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 
+#EXTINF:-1,iptvtools_109 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8 
+#EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 08/01/2018[/COLOR] - http://127.0.0.1 
+#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]- http://127.0.0.1 
+#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone 
+#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV | HD http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8 
+#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8? 
+#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8 
+#EXTINF:-1, tvg-logo="H3cPpIc.png" group-title="Canales Chilenos", CHV | SD http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8 
+#EXTINF:-1, tvg-logo="HqKYZvm.png" group-title="Canales Chilenos", Canal 13 | SD http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8? 
+#EXTINF:-1, tvg-logo="6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8 #EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8 
+#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD (Mirror USA) http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8 
+#EXTINF:-1, tvg-logo="D3m8gI2.png" group-title="Canales Chilenos", 24 Horas | SD http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8 
+#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8 
+#EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital | HD http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8 
+#EXTINF:-1, tvg-logo="sEocONH.png" group-title="Canales Chilenos", UCV 3 | HD http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8 
+#EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", NIU TV | HD http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8 
+#EXTINF:-1, tvg-logo="9D6jpxM.png" group-title="Canales Chilenos", Limo TVN | HD http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8 
+#EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales Chilenos", TVN Kids | SD http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8 
+#EXTINF:-1, tvg-logo="2HGma9m.png" group-title="Canales Chilenos", CDO | SD http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 #EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 | HD | Concepcion http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8 
+#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos", TVU | HD http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8 #EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8 
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision Musica | HD http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8 #EXTINF:-1,*******MUSICA******* http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(05)/index.m3u8 
+#EXTINF:-1,TELEHIT PLUS http://189.216.247.113/Content/HLS/Live/Channel(TELEHIT)/Stream(05)/index.m3u8 
+#EXTINF:-1,TELE RITMO http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8 
+#EXTINF:-1,Trendy Tv http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,heartv summer MUSIC http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on #EXTINF:-1,Heart TV MUSICA http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8 #EXTINF:-1,Heart Music tv http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on #EXTINF:-1,Rock Nacional TV http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8 
+#EXTINF:-1, http://imgur.com/y1YCl0M.png" 
+#EXTINF:-1,RETRO MUCIC TV http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1,RETRO MUSIC TV http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8 
+#EXTINF:-1,MUSICA:Movistar Musica http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8 
+#EXTINF:-1,Latinos NC TV | HD http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8 
+#EXTINF:-1,MELODY CHANEL http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Musica.m3u8 
+#EXTINF:-1,MI MUSICA http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8 
+#EXTINF:-1,TOP LATINO MUSICA http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8 
+#EXTINF:-1,SON POPULAR http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8 
+#EXTINF:-1,VIRGIN MUSIC http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1,TOP LATINO http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8 
+#EXTINF:-1,Cool 103.7 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1,TV 538: https://hlscdn.538.nl/content/538tv/538tv_0.m3u8 
+#EXTINF:-1,MUSIC CHANELS http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 
+#EXTINF:-1,Teletrack http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,NC+ MUSICA http://123.30.134.108:1935/live/nctlive/playlist.m3u8 
+#EXTINF:-1,HEARTY TV MUSIC http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8 
+#EXTINF:-1,Kurt Cobain: Montage of Heck https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4 http://mriptv.in:8080/live/Rob/Rob1/77701.ts 
+#EXTINF:0,LA: Starz HD http://mriptv.in:8080/live/Rob/Rob1/77702.ts 
+#EXTINF:0,LA: Starz Family HD http://mriptv.in:8080/live/Rob/Rob1/77703.ts 
+#EXTINF:0,LA: Starz Encore Suspense HD http://mriptv.in:8080/live/Rob/Rob1/77705.ts 
+#EXTINF:0,LA: Starz Encore HD http://mriptv.in:8080/live/Rob/Rob1/77706.ts 
+#EXTINF:0,LA: Starz Encore Family HD http://mriptv.in:8080/live/Rob/Rob1/77708.ts 
+#EXTINF:0,LA: Starz Encore Classic HD http://mriptv.in:8080/live/Rob/Rob1/77709.ts 
+#EXTINF:0,LA: Starz Encore Black HD http://mriptv.in:8080/live/Rob/Rob1/77710.ts 
+#EXTINF:0,LA: Starz Encore Action http://mriptv.in:8080/live/Rob/Rob1/77711.ts 
+#EXTINF:0,LA: Starz Edge HD http://mriptv.in:808y
+#EXTINF:-1,Fox Sport 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1727.ts 
+#EXTINF:-1,Warner HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1717.ts 
+#EXTINF:-1,Vh 1 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1747.ts 
+#EXTINF:-1,Univision TDN - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1725.ts 
+#EXTINF:-1,Universal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1716.ts 
+#EXTINF:-1,Unicable - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1694.ts 
+#EXTINF:-1,TV Pelicula - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1705.ts 
+#EXTINF:-1,Tv Marti - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1704.ts 
+#EXTINF:-1,Tnt Series - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1702.ts 
+#EXTINF:-1,Televisa - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1695.ts 
+#EXTINF:-1,Telemusica - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1745.ts 
+#EXTINF:-1,Telemundo - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1692.ts 
+#EXTINF:-1,Nickelodeon - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1733.ts 
+#EXTINF:-1,Nick Junior - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1734.ts 
+#EXTINF:-1,National Geographic - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1741.ts 
+#EXTINF:-1,National Geo Wild - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1742.ts 
+#EXTINF:-1,Multimedios - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1699.ts 
+#EXTINF:-1,Mtv Latino Hits - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1748.ts 
+#EXTINF:-1,Mtv Latino - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1749.ts 
+#EXTINF:-1,Mi Musica - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1746.ts 
+#EXTINF:-1,Investigacion Discovery - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1738.ts 
+#EXTINF:-1,Hola TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1693.ts 
+#EXTINF:-1,History - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1740.ts 
+#EXTINF:-1,Golden - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1707.ts 
+#EXTINF:-1,Galavision - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1696.ts 
+#EXTINF:-1,Fox Sport - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1726.ts 
+#EXTINF:-1,Fox Movies - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1721.ts 
+#EXTINF:-1,Fox Life - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1722.ts 
+#EXTINF:-1,Fox Classics - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1723.ts 
+#EXTINF:-1,Fox Cinema - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1720.ts 
+#EXTINF:-1,Fox Action - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1724.ts 
+#EXTINF:-1,Fox 1 HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1719.ts 
+#EXTINF:-1,Fox - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1714.ts 
+#EXTINF:-1,Foro TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1697.ts 
+#EXTINF:-1,Film Zone - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1708.ts 
+#EXTINF:-1,Espn+ - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1731.ts 
+#EXTINF:-1,Espn 3 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1730.ts 
+#EXTINF:-1,Espn 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1729.ts 
+#EXTINF:-1,Espn - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1728.ts 
+#EXTINF:-1,Encuentro - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1750.ts 
+#EXTINF:-1,El Gourmet - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1703.ts 
+#EXTINF:-1,DX TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1732.ts 
+#EXTINF:-1,Distrito Comedia - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1709.ts 
+#EXTINF:-1,Disney Jr - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1736.ts 
+#EXTINF:-1,Disney Channel - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1735.ts 
+#EXTINF:-1,Discovery Channel - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1739.ts 
+#EXTINF:-1,Cinemax - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1710.ts 
+#EXTINF:-1,Cinecanal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1712.ts 
+#EXTINF:-1,Cartoon Network - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1737.ts 
+#EXTINF:-1,Caracol - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1701.ts 
+#EXTINF:-1,Canal 5 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1690.ts 
+#EXTINF:-1,Canal 11 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1691.ts 
+#EXTINF:-1,Azteca Noticias - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1683.ts 
+#EXTINF:-1,Azteca Mundo - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1686.ts 
+#EXTINF:-1,Azteca Corazon - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1687.ts 
+#EXTINF:-1,Azteca Clic - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1688.ts 
+#EXTINF:-1,Azteca Cinema - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1689.ts 
+#EXTINF:-1,Azteca 7 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1684.ts 
+#EXTINF:-1,Azteca 13 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1685.ts 
+#EXTINF:-1,Axn HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1715.ts 
+#EXTINF:-1,Animal Planet - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1743.ts 
+#EXTINF:-1,Amc - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1711.ts0/live/Rob/Rob1/77712.ts 
+#EXTINF:0,LA: Starz East HD http://mriptv.in:8080/live/Rob/Rob1/77713.ts 
+#EXTINF:0,LA: Starz Comedy HD http://mriptv.in:8080/live/Rob/Rob1/77714.ts 
+#EXTINF:0,LA: Starz Black HD http://mriptv.in:8080/live/Rob/Rob1/77717.ts 
+#EXTINF:0,LA: Showtime West HD http://mriptv.in:8080/live/Rob/Rob1/77718.ts 
+#EXTINF:0,LA: Showtime HD http://mriptv.in:8080/live/Rob/Rob1/77719.ts 
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO",-- DEPORTES -- http://www.NibbleTV.info/ 
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/claro-sports.png" group-title="DEPORTES",Claro Sports https://live.nibbletv.info/CH/wj3jt0N9Tx2/Claro-Sports.m3u8 
+#EXTINF:-1 tvg-logo="https://www.nibbl
+#EXTINF:-1,Fox Sport 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1727.ts 
+#EXTINF:-1,Warner HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1717.ts 
+#EXTINF:-1,Vh 1 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1747.ts 
+#EXTINF:-1,Univision TDN - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1725.ts 
+#EXTINF:-1,Universal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1716.ts 
+#EXTINF:-1,Unicable - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1694.ts 
+#EXTINF:-1,TV Pelicula - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1705.ts 
+#EXTINF:-1,Tv Marti - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1704.ts 
+#EXTINF:-1,Tnt Series - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1702.ts 
+#EXTINF:-1,Televisa - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1695.ts 
+#EXTINF:-1,Telemusica - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1745.ts 
+#EXTINF:-1,Telemundo - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1692.ts 
+#EXTINF:-1,Nickelodeon - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1733.ts 
+#EXTINF:-1,Nick Junior - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1734.ts 
+#EXTINF:-1,National Geographic - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1741.ts 
+#EXTINF:-1,National Geo Wild - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1742.ts 
+#EXTINF:-1,Multimedios - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1699.ts 
+#EXTINF:-1,Mtv Latino Hits - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1748.ts 
+#EXTINF:-1,Mtv Latino - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1749.ts 
+#EXTINF:-1,Mi Musica - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1746.ts 
+#EXTINF:-1,Investigacion Discovery - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1738.ts 
+#EXTINF:-1,Hola TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1693.ts 
+#EXTINF:-1,History - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1740.ts 
+#EXTINF:-1,Golden - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1707.ts 
+#EXTINF:-1,Galavision - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1696.ts 
+#EXTINF:-1,Fox Sport - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1726.ts 
+#EXTINF:-1,Fox Movies - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1721.ts 
+#EXTINF:-1,Fox Life - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1722.ts 
+#EXTINF:-1,Fox Classics - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1723.ts 
+#EXTINF:-1,Fox Cinema - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1720.ts 
+#EXTINF:-1,Fox Action - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1724.ts 
+#EXTINF:-1,Fox 1 HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1719.ts 
+#EXTINF:-1,Fox - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1714.ts 
+#EXTINF:-1,Foro TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1697.ts 
+#EXTINF:-1,Film Zone - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1708.ts 
+#EXTINF:-1,Espn+ - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1731.ts 
+#EXTINF:-1,Espn 3 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1730.ts 
+#EXTINF:-1,Espn 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1729.ts 
+#EXTINF:-1,Espn - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1728.ts 
+#EXTINF:-1,Encuentro - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1750.ts 
+#EXTINF:-1,El Gourmet - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1703.ts 
+#EXTINF:-1,DX TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1732.ts 
+#EXTINF:-1,Distrito Comedia - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1709.ts 
+#EXTINF:-1,Disney Jr - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1736.ts 
+#EXTINF:-1,Disney Channel - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1735.ts 
+#EXTINF:-1,Discovery Channel - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1739.ts 
+#EXTINF:-1,Cinemax - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1710.ts 
+#EXTINF:-1,Cinecanal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1712.ts 
+#EXTINF:-1,Cartoon Network - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1737.ts 
+#EXTINF:-1,Caracol - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1701.ts 
+#EXTINF:-1,Canal 5 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1690.ts 
+#EXTINF:-1,Canal 11 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1691.ts 
+#EXTINF:-1,Azteca Noticias - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1683.ts 
+#EXTINF:-1,Azteca Mundo - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1686.ts 
+#EXTINF:-1,Azteca Corazon - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1687.ts 
+#EXTINF:-1,Azteca Clic - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1688.ts 
+#EXTINF:-1,Azteca Cinema - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1689.ts 
+#EXTINF:-1,Azteca 7 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1684.ts 
+#EXTINF:-1,Azteca 13 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1685.ts 
+#EXTINF:-1,Axn HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1715.ts 
+#EXTINF:-1,Animal Planet - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1743.ts 
+#EXTINF:-1,Amc - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1711.tsetv.info/img/ch/deportv.png" group-title="DEPORTES",DeporTV https://live.nibbletv.info/CH/wj3jt0N9Tx2/DeporTV.m3u8 
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/directv-sports.png" group-title="DEPORTES",DirecTV Sports https://live.nibbletv.info/CH/wj3jt0N9Tx2/DirecTV-Sports.m3u8 
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png" group-title="DEPORTES",TyC Sports https://live.nibbletv.info/CH/wj3jt0N9Tx2/TyC-Sports.m3u8 
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn.png" group-title="DEPORTES",ESPNu
+#EXTINF:-1,Fox Sport 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1727.ts 
+#EXTINF:-1,Warner HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1717.ts 
+#EXTINF:-1,Vh 1 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1747.ts 
+#EXTINF:-1,Univision TDN - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1725.ts 
+#EXTINF:-1,Universal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1716.ts 
+#EXTINF:-1,Unicable - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1694.ts 
+#EXTINF:-1,TV Pelicula - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1705.ts 
+#EXTINF:-1,Tv Marti - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1704.ts 
+#EXTINF:-1,Tnt Series - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1702.ts 
+#EXTINF:-1,Televisa - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1695.ts 
+#EXTINF:-1,Telemusica - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1745.ts 
+#EXTINF:-1,Telemundo - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1692.ts 
+#EXTINF:-1,Nickelodeon - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1733.ts 
+#EXTINF:-1,Nick Junior - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1734.ts 
+#EXTINF:-1,National Geographic - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1741.ts 
+#EXTINF:-1,National Geo Wild - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1742.ts 
+#EXTINF:-1,Multimedios - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1699.ts 
+#EXTINF:-1,Mtv Latino Hits - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1748.ts 
+#EXTINF:-1,Mtv Latino - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1749.ts 
+#EXTINF:-1,Mi Musica - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1746.ts 
+#EXTINF:-1,Investigacion Discovery - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1738.ts 
+#EXTINF:-1,Hola TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1693.ts 
+#EXTINF:-1,History - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1740.ts 
+#EXTINF:-1,Golden - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1707.ts 
+#EXTINF:-1,Galavision - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1696.ts 
+#EXTINF:-1,Fox Sport - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1726.ts 
+#EXTINF:-1,Fox Movies - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1721.ts 
+#EXTINF:-1,Fox Life - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1722.ts 
+#EXTINF:-1,Fox Classics - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1723.ts 
+#EXTINF:-1,Fox Cinema - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1720.ts 
+#EXTINF:-1,Fox Action - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1724.ts 
+#EXTINF:-1,Fox 1 HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1719.ts 
+#EXTINF:-1,Fox - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1714.ts 
+#EXTINF:-1,Foro TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1697.ts 
+#EXTINF:-1,Film Zone - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1708.ts 
+#EXTINF:-1,Espn+ - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1731.ts 
+#EXTINF:-1,Espn 3 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1730.ts 
+#EXTINF:-1,Espn 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1729.ts 
+#EXTINF:-1,Espn - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1728.ts 
+#EXTINF:-1,Encuentro - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1750.ts 
+#EXTINF:-1,El Gourmet - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1703.ts 
+#EXTINF:-1,DX TV - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1732.ts 
+#EXTINF:-1,Distrito Comedia - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1709.ts 
+#EXTINF:-1,Disney Jr - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1736.ts 
+#EXTINF:-1,Disney Channel - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1735.ts 
+#EXTINF:-1,Discovery Channel - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1739.ts 
+#EXTINF:-1,Cinemax - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1710.ts 
+#EXTINF:-1,Cinecanal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1712.ts 
+#EXTINF:-1,Cartoon Network - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1737.ts 
+#EXTINF:-1,Caracol - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1701.ts 
+#EXTINF:-1,Canal 5 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1690.ts 
+#EXTINF:-1,Canal 11 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1691.ts 
+#EXTINF:-1,Azteca Noticias - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1683.ts 
+#EXTINF:-1,Azteca Mundo - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1686.ts 
+#EXTINF:-1,Azteca Corazon - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1687.ts 
+#EXTINF:-1,Azteca Clic - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1688.ts 
+#EXTINF:-1,Azteca Cinema - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1689.ts 
+#EXTINF:-1,Azteca 7 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1684.ts 
+#EXTINF:-1,Azteca 13 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1685.ts 
+#EXTINF:-1,Axn HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1715.ts 
+#EXTINF:-1,Animal Planet - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1743.ts 
+#EXTINF:-1,Amc - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1711.ts https://live.nibbletv.info/CH/wj3jt0N9Tx2/ESPN.m3u8 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/espn-2.png" group-title="DEPORTES",ESPN 2 https://live.nibbletv.info/CH/wj3jt0N9Tx2/ESPN-2.m3u
+IPTV m3u Latino: https://iptvm3ulistas.blogspot.com/2018/06/lista-iptv-remota-junio-2018-canales-sd.html
+#EXINF:0,LA: Showtime East HD http://mriptv.in:8080/live/Rob/Rob1/77721.ts 
+#EXTINF:0,LA: Showtime Beyond HD http://mriptv.in:8080/live/Rob/Rob1/77722.ts�
+IPTV m3u Latino: https://iptvm3ulistas.blogspot.com/2018/05/lista-m3u-latino-de-canales-premium.html
+#EXTINF:-1,Fox Sport 2 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1727.ts 
+#EXTINF:-1,Warner HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1717.ts 
+#EXTINF:-1,Vh 1 - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1747.ts 
+#EXTINF:-1,Univision TDN - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1725.ts 
+#EXTINF:-1,Universal HD - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1716.ts 
+#EXTINF:-1,Unicable - Latino http://xc.cobra-iptv.com:25461/live/latino/latino/1694.ts
